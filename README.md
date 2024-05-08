@@ -1,6 +1,6 @@
 # s21_math
 
-Implementation of your own version of the math.h libraryin C programming language using structured approach
+Implementation of my own version of the math.h library in C programming language using structured approach.
 
 ## Library overview
 
